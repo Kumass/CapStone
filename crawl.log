@@ -1,0 +1,25 @@
+
+DEBUG	2022-03-22 18:09:30,492	1	com.log4j.test.TestRestAssured	[main]	Select Flight
+DEBUG	2022-03-22 18:09:30,541	50	com.log4j.test.TestRestAssured	[main]	Login
+DEBUG	2022-03-22 18:09:30,586	95	com.log4j.test.TestRestAssured	[main]	Complete purchase
+DEBUG	2022-03-22 18:09:30,608	117	com.log4j.test.TestRestAssured	[main]	See Bookings
+DEBUG	2022-03-22 23:21:08,743	0	com.log4j.test.TestRestAssured	[main]	Select Flight
+DEBUG	2022-03-22 23:21:08,792	49	com.log4j.test.TestRestAssured	[main]	Login
+DEBUG	2022-03-22 23:21:08,835	92	com.log4j.test.TestRestAssured	[main]	Complete purchase
+DEBUG	2022-03-22 23:21:08,857	114	com.log4j.test.TestRestAssured	[main]	See Bookings
+DEBUG	2022-03-23 09:05:07,386	0	com.log4j.test.TestRestAssured	[main]	Select Flight
+DEBUG	2022-03-23 09:05:07,454	68	com.log4j.test.TestRestAssured	[main]	Login
+DEBUG	2022-03-23 09:05:07,582	196	com.log4j.test.TestRestAssured	[main]	Complete purchase
+DEBUG	2022-03-23 09:05:07,632	246	com.log4j.test.TestRestAssured	[main]	See Bookings
+DEBUG	2022-03-23 09:32:56,198	0	com.log4j.test.TestRestAssured	[main]	Select Flight
+DEBUG	2022-03-23 09:32:56,254	56	com.log4j.test.TestRestAssured	[main]	Login
+DEBUG	2022-03-23 09:32:56,296	98	com.log4j.test.TestRestAssured	[main]	Complete purchase
+DEBUG	2022-03-23 09:32:56,316	118	com.log4j.test.TestRestAssured	[main]	See Bookings
+DEBUG	2022-03-23 10:49:01,073	0	com.log4j.test.TestRestAssured	[main]	Select Flight
+DEBUG	2022-03-23 10:49:01,116	43	com.log4j.test.TestRestAssured	[main]	Login
+DEBUG	2022-03-23 10:49:01,155	82	com.log4j.test.TestRestAssured	[main]	Complete purchase
+DEBUG	2022-03-23 10:49:01,172	99	com.log4j.test.TestRestAssured	[main]	See Bookings
+DEBUG	2022-03-23 10:53:42,019	0	com.log4j.test.TestRestAssured	[main]	Select Flight
+DEBUG	2022-03-23 10:53:42,071	52	com.log4j.test.TestRestAssured	[main]	Login
+DEBUG	2022-03-23 10:53:42,134	115	com.log4j.test.TestRestAssured	[main]	Complete purchase
+DEBUG	2022-03-23 10:53:42,164	145	com.log4j.test.TestRestAssured	[main]	See Bookings
